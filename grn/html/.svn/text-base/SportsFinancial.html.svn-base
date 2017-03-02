@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+<meta charset="utf-8">
+<meta name="renderer" content="webkit">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>体育新闻</title>
+<link href="../css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="../css/ieViewportBug.css"/>
+<link rel="stylesheet" href="../css/common.css">
+<link rel="stylesheet" href="../css/ZDKmain.css">
+<!--[if lt IE 9]>
+<script src="../js/html5shiv.min.js"></script>
+<script src="../js/respond.min.js"></script>
+<![endif]-->
+<script src="../js/ieViewportBug.js"></script>
+</head>
+<body>
+	<div class="header"></div>
+	<div class="main">
+		<div class="SportsFinancial">
+			<div class="banner">
+				<img src="../images/SportsFinancialPcBan.jpg" alt="">
+				<img src="../images/SportsFinancialMBan.jpg" alt="">
+			</div>
+			<div class="SportsFinancialCon">
+				<div class="container">
+					<div class="title">
+						<h3>体育金融</h3>
+						<i></i>
+					</div>
+					<div class="content">
+						<h4>享安经济</h4>
+						<div class="MainCon">
+							<p>享安经纪，是由上交所上市企业贵人鸟股份有限公司（证券代码：603555）、深耕金融保险生态产业链的专业团队和体育产业创新领域的知名企业共同发起，经中国保监会批准成立的全国性保险经纪公司。总部设在东南国际航运中心、国家自由贸易试验区和两岸金融贸易中心——厦门。主要从事人身保险、财产保险及再保险经纪业务，并提供防灾、防损、风险评估、风险管理咨询服务。</p>
+							<p style="margin-top:0.08rem">享安秉持 “创造极致保险服务体验”的企业愿景，以“运动保险”为特色，通过“线上线下一体化”的综合运营平台，致力于成为体育保险创新的开拓者和保险综合服务的领先者！为事业伙伴提供平等合作的终身事业平台！为客户提供一站到位的金融保险服务！</p>
+							
+						</div>
+					</div>
+				</div>
+				<div class="SportsFinancialBac">
+<!-- 					<img src="../images/SportsFinancialBac.jpg" alt="">
+					<img src="../images/SportsFinancialBacIpad.jpg" alt="">
+					<img src="../images/SportsFinancialBacM.jpg" alt=""> -->
+				</div>
+				<div class="container">
+					<div class="title">
+						<h3>企业文化</h3>
+						<i></i>
+					</div>
+					<div class="culture"><img src="../images/culture.gif" alt=""></div>
+				</div>
+				<div class="container">
+					<div class="title">
+						<h3>核心竞争力</h3>
+						<i></i>
+					</div>
+					<div class="MainCon1">
+						享安致力“颠覆”、“巅峰”、“典范”的管理文化，以专注成就专业，以服务成就价值，致力成为传统保险服务的革新者、体育保险创新的开拓者和保险新维度的探索者。
+					</div>
+				</div>
+				<div class="competitiveness">
+<!-- 					<img src="../images/competitiveness.gif" alt="">
+					<img src="../images/competitivenessIpad.png" alt="">
+					<img src="../images/competitivenessM.png" alt=""> -->
+				</div>
+				<div class="competitivenessCon">
+					<div class="container">
+						<h3>传统保险服务的革新者</h3>
+						<p>甄选来自数十家保险公司的优质产品，打造品类齐全的保险超市，精心安排保险保全和理赔服务环节，定位中高端客户保险管家，为个人、企业、团体量身定制一站到位、一揽子的金融保险解决方案。</p>
+						<h3 class="h3MarginTop">体育保险创新的开拓者</h3>
+						<p>从体育人身、财产保险到再保险，从体育活动、赛事项目、赛事运营管理到参与者的保险保障，设立体育专业队伍，建立体育专业顾问专家团队；积极融入体育场景，定制专业化体育保险产品；主动参与体育过程，帮助客户识别、管控风险，担当客户风险顾问。</p>
+						<h3 class="h3MarginTop">保险新维度的探索者</h3>
+						<p>凭借“全向式核心业务管理系统”、“线上线下一体化综合运营平台I2SIOP”以及极富人性化与生命力的“享安全向事业制度”，汇集多元合作渠道，支持广泛业务伙伴，布局顶尖（MDRT）经纪人和独立代理人战略，构建共享共赢的合作平台。</p>
+					</div>
+				</div>
+				<div class="container">
+					<div class="title">
+						<h3>团队管理</h3>
+						<i></i>
+					</div>
+					<div class="MainCon2">
+						享安核心管理团队，集聚了一群拥有成功保险公司管理经验、保险中介企业丰富阅历以及互联网运作经验的有识之士，致力将享安打造成为中国保险中介的中坚力量！
+					</div>
+				</div>
+				<div class="container">
+					<div class="administrator administrator1">
+						<img src="../images/person02.jpg" alt="刘军">
+						<img src="../images/person2.jpg" alt="刘军">
+						<div class="personintro">
+							<div class="name">刘军</div>
+							<div class="position">享安经纪董事长&CEO</div>
+							<div class="intro">高级经济师，具备中央机关单位工作经验，保险行业从业年资19年。曾任A+H同步上市公司-新华人寿人事部干部管理处处长、人力资源部主管、总经理助理、厦门分公司总经理、福建分公司总经理、党委书记；参与新华人寿首期人力资源制度体系设计与实施，参与新华快速发展期机构人员的引进；在负责厦门、福建分公司期间，带领公司成为当地业务品质优秀、增长速度最快的保险机构。</div>
+						</div>
+					</div>
+					<div class="administrator administrator2">
+						<img src="../images/person01.jpg" alt="李巍">
+						<img src="../images/person1.jpg" alt="李巍">
+						<div class="personintro">
+							<div class="name">李巍</div>
+							<div class="position">拟任享安经纪副总经理</div>
+							<div class="intro">国家注册理财规划师，具备11年大学教学工作经验，保险行业从业年资18年。
+历任国内大型国有保险公司地市分公司总经理、省公司总助、总经理，多年业务规模位居行业第一的保险中介公司-华康保险代理代渠部总经理、华东地区总经理。</div>
+						</div>
+					</div>
+				</div>
+				<div class="container contactUs">
+					<div class="title">
+						<h3>联系我们</h3>
+						<i></i>
+					</div>
+					<div class="MainCon">
+						<ul>
+							<li>【官方网站】www.xa-ib.com</li>
+							<li>【客服电话】400-6639-123</li>
+							<li>【微信公众号】享安在线</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="footer"></div>
+<script src="../js/jquery-2.1.1.min.js"></script>
+<script src="../js/bootstrap.js"></script>
+<script src="../js/jquery.bootstrap-dropdown-on-hover.js"></script>
+<script src="../js/common.js"></script>
+<script src="../js/ZDKmain.js"></script>
+</body>
+</html>

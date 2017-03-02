@@ -1,0 +1,344 @@
+/*-------------通用css----------------*/
+.Topbread{width:100%;height:0.29rem;background:#4fb8e9;}
+.Topbread>.container>.conner a{display:inline-block; vertical-align: top; color:#fff;font-size:0.12rem;font-weight:bold;line-height:0.29rem;}
+.Topbread>.container>.conner .classer{display:inline-block;width:5px;height:0.29rem;margin:0 0.19rem; background:url(../images/class.png) center no-repeat;}
+/*分页*/
+.paging{margin:0.25rem 0; padding-right:0.05rem;}
+.paging .pagingPC>ul .list{cursor:pointer; margin-left:1px; color:#fff;text-align: center; width:0.25rem; height:0.25rem; line-height:0.25rem;background:#898a8b;float:left;}
+.paging .pagingPC>ul .active{background:#4fb8e9;}
+.paging .pagingPC>ul{float:right;}
+.paging .pagingPC{overflow:hidden;}
+.paging .pagingM{width:1.34rem;height:0.32rem;background:#4fb8e9;line-height:0.32rem;text-align:center;color:#fff;cursor:pointer;font-weight:bold;margin:0 auto;display:none;}
+
+
+
+/*-------------联系方式-------------*/
+/*.{width:59.75%;}*/
+.connection>.banner>img{width:100%;height:auto;}
+.connection>.banner>img:nth-child(2){display:none;}
+.connection>.address .contactTit{height:1.3rem;position:relative;}
+.connection>.address .contactTit .content{height:0.52rem;top:0.44rem;position:absolute;}
+.connection>.address .contactTit .content h3{font-size:0.24rem;color:#292929;font-weight:bolder;letter-spacing:0.11rem;}
+.connection>.address .contactTit .content .underline{width: 0.35rem;height:0.04rem;position:absolute;left: 0;bottom:0.02rem;background:#5dbeeb;}
+.connection>.address .addressCon{height:4.28rem;background:#5bbdeb;}
+.connection>.address .addressCon .addressConMain{height:100%; background:url(../images/connectionPcbac.png) center no-repeat; }
+.connection>.address .addressCon .addressBox{width: 4.9rem;height:3.24rem;padding-top:0.24rem;background:rgba(0,0,0,0.5); margin-top:0.4rem;}
+.connection>.address .addressCon .addressConMain .addressBox>.icon{width:0.77rem;height:0.87rem;background:url(../images/Compass.png) no-repeat;background-size: cover;margin-left:0.34rem;}
+.connection>.address .addressCon .addressConMain .addressBox>.con{color:#fff;padding:0 0.34rem;margin-top:0.3rem;}
+.connection>.address .addressCon .addressConMain .addressBox>.con h2{font-size:0.3rem;font-weight:bold;}
+.connection>.address .addressCon .addressConMain .addressBox>.con h4{font-size:0.14rem;font-weight:bold;margin-top:0.4rem;}
+.connection>.address .addressCon .addressConMain .addressBox>.con p{font-size:0.12rem;margin-top:0.08rem;}
+.connection>.emal{padding:0.43rem 0 0.63rem 0;}
+.connection>.emal ul{min-height:1.77rem;}
+.connection>.emal .list{font-size:0.12rem;color:#777;font-weight:bold;line-height: 0.22rem;}
+.connection>.emal .listFirst{font-size:0.18rem;color:#5bbdea;font-weight:bold;margin-bottom:0.24rem;}
+.connection .f-c-2{width:50%;float:left;padding: 0 0.34rem;}
+.connection .titleMargin{margin:0.34rem 0; color:#292929!important;}
+.connection .Outlink{height: 1.47rem;background:#5bbdeb;}
+.connection .Outlink ul{margin-top:25.5px;}
+.connection .Outlink ul .list {width: 20%;float:left; height:96px; display:inline-block;}
+.connection .Outlink ul .list a{color:#fff;}
+.connection .Outlink ul .list a .link{display:block;margin:0 auto; width:68px;height:68px;background:url(../images/icon03.png) no-repeat;}
+.connection .Outlink ul .list:nth-child(2) a .link{background-position:-68px 0;}
+.connection .Outlink ul .list:nth-child(3) a .link{background-position:-136px 0;}
+.connection .Outlink ul .list:nth-child(4) a .link{background-position:-204px 0;}
+.connection .Outlink ul .list:nth-child(5) a .link{background-position:-272px 0;}
+.connection .Outlink ul .list a .linkName{text-align:center;margin-top:11px;}
+
+/*-------------媒体报道-------------*/
+
+.mediaCon>.banner>img{width:100%;height:auto;}
+.mediaCon>.banner>img:nth-child(2){display:none;}
+.mediaCon>.container>.concent{}
+.mediaCon>.container>.concent .NavBox{text-align:center; width: 100%;margin: 0 auto;}
+.mediaCon>.container>.concent .NavBox .list{cursor:pointer; margin:40px 0; border-right:1px solid #dcf1fb;font-size:0.14rem;color:#4fb8e9;display:inline-block;position:relative;line-height:0.32rem;font-weight:bold;}
+.mediaCon>.container>.concent .NavBox .active{color:#a4d6f2;}
+.mediaCon>.container>.concent .NavBox .list:nth-child(4){border-right:1px solid #fff;}
+.mediaCon>.container>.concent .NavBox .list>i{display:none;width:35px;height:4px;background:#4fb8e9;position:absolute;left:50%;margin-left:-17.5px;bottom:-19px;}
+.mediaCon>.container>.concent .conBox{width: 100%;margin: 0 auto;}
+.mediaCon>.container>.concent .conBox1{display: none;}
+.mediaCon>.container>.concent .conBox2{display: none;}
+.mediaCon>.container>.concent .conBox3{display: none;}
+.mediaCon>.container>.concent .conBox .row>ul{overflow: hidden;}
+.mediaCon>.container>.concent .conBox .row>ul .list{position:relative;/*height:2.46rem;*/padding-right:0.1rem;padding-left:0;padding-top: 0.1rem; cursor:pointer;}
+.mediaCon>.container>.concent .conBox .category{ -webkit-user-select:none; -moz-user-select:none; -ms-user-select:none; user-select:none;background:#5bbdea;border-radius: 2px;line-height: 0.18rem; width: 0.6rem;height:0.18rem;font-size: 0.1rem;text-align:center;color:#fff;position:absolute;top:0.13rem;right:0.67rem}
+.mediaCon>.container>.concent .conBox .time{ -webkit-user-select:none; -moz-user-select:none; -ms-user-select:none; user-select:none;background:#fff;border-radius: 2px;line-height: 0.18rem; width: 0.48rem;height:0.18rem;font-size: 0.1rem;text-align:center;color:#4fb8e9;position:absolute;top:0.13rem;right:0.14rem}
+.mediaCon>.container>.concent .conBox .list>img{width:100%;height:auto; -webkit-user-select:none; -moz-user-select:none; -ms-user-select:none; user-select:none;}
+.mediaCon>.container>.concent .conBox .list .mediaIntro{width:calc(100% - 0.1rem);height:0.85rem;background:#49a9d6;position:absolute;left:0;bottom:0;}
+.mediaCon>.container>.concent .conBox .list .mediaIntro p{letter-spacing: 0.03rem;padding:0.1rem;font-size:0.14rem;color:#fff;font-weight:bold;}
+.mediaCon>.container>.concent .conBox .list .mediaIntro a{ -webkit-user-select:none; -moz-user-select:none; -ms-user-select:none; user-select:none;font-size:0.14rem;color:#fff;font-weight:bold;position:absolute;right:0.1rem;/*bottom:0.12rem*/}
+.mediaCon>.container>.concent .conBox .address{background:#5bbdea;padding-bottom: 35px;padding-left:30px;margin-top:5px; margin-left: 20px;}
+.mediaCon>.container>.concent .conBox .address .logo{width:77px;height:87px;background:url(../images/Compass.png) no-repeat;background-position:-77px 0;margin-top:24px;}
+.mediaCon>.container>.concent .conBox .address h2{margin-top:29px; font-size:30px;font-weight: bold;color:#fff;letter-spacing: 15px;}
+.mediaCon>.container>.concent .conBox .address h4{line-height: 20px;font-size:14px;font-weight: bold;color:#fff;letter-spacing: 7px;margin-top:39px;}
+.mediaCon>.container>.concent .conBox .address p{font-size:12px;color:#fff;letter-spacing: 3px;line-height: 22px;}
+.mediaCon>.container>.concent .conBox .MadeTop{width:100%;height:auto;padding: 5px;position:relative;}
+.mediaCon>.container>.concent .conBox .MadeTop img{width:100%;height:auto;}
+.mediaCon>.container>.concent .conBox .MadeTop .category{left:0.16rem;top:auto;bottom:0.9rem;}
+.mediaCon>.container>.concent .conBox .MadeTop .time{left:0.88rem;top:auto;bottom:0.9rem;}
+.mediaCon>.container>.concent .conBox .MadeTop .title{position:absolute; left:0.16rem;bottom:0.55rem;color: #fff;font-size: 0.24rem;font-weight: bolder;}
+.mediaCon>.container>.concent .conBox .MadeTop .link{font-size: 0.14rem;color: #fff;font-weight: bold;position: absolute;bottom:0.15rem;left:0.16rem}
+/*-------------媒体报道-详情-------------*/
+.particulars>.banner>img{width:100%;height:auto;}
+.particulars>.banner>img:nth-child(2){display:none;}
+.particulars>.banner{height:1.7rem;width:100%;background:url(../images/parPcBan.jpg) center no-repeat;}
+.particulars>.banner .container {height:100%; position:relative;}
+.particulars>.banner .container img{position:absolute;left:0.2rem;bottom:0.22rem;}
+/*.particulars>.banner>img:nth-child(3){display:none;}*/
+.particulars>.container>.concent .conBox{margin-top:24px;width:100%;margin:24px auto;}
+.particulars>.container>.concent .conBox .address{background:#5bbdea;padding-bottom: 35px;padding-left:30px;margin-top:180px;}
+.particulars>.container>.concent .conBox .address .logo{width:77px;height:87px;background:url(../images/Compass.png) no-repeat;background-position:-77px 0;margin-top:24px;}
+.particulars>.container>.concent .conBox .address h2{margin-top:29px; font-size:30px;font-weight: bold;color:#fff;letter-spacing: 15px;}
+.particulars>.container>.concent .conBox .address h4{line-height: 20px;font-size:14px;font-weight: bold;color:#fff;letter-spacing: 7px;margin-top:39px;}
+.particulars>.container>.concent .conBox .address p{font-size:12px;color:#fff;letter-spacing: 3px;line-height: 22px;}
+.particulars>.container>.concent .conBox .connetLeft{padding-left: 0;padding-right: 97px;text-align: justify;}
+.particulars>.container>.concent .conBox .connetLeft .Newtype{font-weight:bold;}
+.particulars>.container>.concent .conBox .connetLeft .Newtype .types{display:inline-block; width:60px;height:18px;line-height:18px;color:#fff;text-align:center;background:#5bbdea;border-radius:2px}
+.particulars>.container>.concent .conBox .connetLeft .Newtype .time{margin-left:0.12rem;}
+.particulars>.container>.concent .conBox .connetLeft .titler{margin-top:0.11rem;letter-spacing: 8px;}
+.particulars>.container>.concent .conBox .connetLeft .titler h3{font-size:0.24rem;color:#777;font-weight:bold;line-height: 0.3rem;}
+.particulars>.container>.concent .conBox .connetLeft i{display:inline-block; width:35px;height:4px;background:#5cbdeb;margin-top:0.15rem;}
+.particulars>.container>.concent .conBox .connetLeft .from{overflow:hidden;}
+.particulars>.container>.concent .conBox .connetLeft .from span{color:#5bbdea;float:right;}
+.particulars>.container>.concent .conBox .connetLeft .con{margin-top: 0.47rem;font-size:0.12rem;padding-bottom:1.17rem;}
+.particulars>.container>.concent .conBox .connetLeft .con img{display:inherit;margin:0.4rem 0}
+
+/*-------------集团新闻-------------*/
+/*-------------集团新闻-详情-------------*/
+/*-------------财物报告-------------*/
+.FinanceCon>.banner>img{width:100%;height:auto;}
+.FinanceCon>.banner>img:nth-child(2){display:none;}
+/*.FinanceCon>.banner>img:nth-child(3){display:none;}*/
+.FinanceCon>.container>.concent .nav{}
+.FinanceCon>.container>.concent .nav .list{cursor:pointer; margin: 40px 0;float:left;text-align:center;font-size:0.14rem;color:#4fb8e9;font-weight:bold;border-right: 1px solid #dcf1fb;    display: inline-block;position: relative;line-height: 0.32rem;}
+.FinanceCon>.container>.concent .nav .active{color:#a4d6f2;}
+.FinanceCon>.container>.concent .nav .list i{display: none;width: 35px;height: 4px;background: #4fb8e9;position: absolute;left: 50%;margin-left: -17.5px;bottom: -19px}
+.yearBox2,.yearBox3{display:none;}
+.FinanceCon>.yearBox .navbac{width:100%;background: #4fb8e9;height: 47px;}
+.FinanceCon>.yearBox>.navbac .container{text-align: center;}
+.FinanceCon>.yearBox>.navbac .container ul{}
+.FinanceCon>.yearBox>.navbac .container ul>.list{display:inline-block; background: #4fb8e9; width: 25%;float: left;}
+.FinanceCon>.yearBox>.navbac .container ul>.list .year{position:relative;cursor:pointer;padding:0 0.92rem;height:46px;line-height:46px; color:#fff;font-weight:bold;border-right:1px solid #72c6ed;text-align:center;}
+.FinanceCon>.yearBox>.navbac .container ul>.list i{width:15px;height:7px;background:url(../images/select.png) no-repeat;position: absolute; right:2.5rem;top:50%;margin-top:-3.5px;display:none;}
+.FinanceCon>.yearBox>.navbac .container ul>.active {background:#285e77;}
+.FinanceCon>.yearBox .yearCon{margin-top:0.4rem;}
+.FinanceCon>.yearBox .yearCon .annals{}
+.FinanceCon>.yearBox .yearCon .title {position:relative;height:1rem}
+.FinanceCon>.yearBox .yearCon .title h3{text-indent: 10px;font-size:0.24rem;color:#777;text-align:center;letter-spacing: 10px;font-weight: bold;}
+.FinanceCon>.yearBox .yearCon .title i{width: 35px;height: 4px;background: #4fb8e9;position: absolute;left: 50%;margin-left: -17.5px;top: 0.46rem;}
+.FinanceCon>.yearBox .yearCon .annals .yearContent{padding:0.77rem 0;background: #4fb8e9;overflow: hidden;}
+.FinanceCon>.yearBox .yearCon .annals .yearContent .centers{margin:0 auto;}
+.FinanceCon>.yearBox .yearCon .annals .yearContent .Propertyreport{width:33.3%;float:left;margin-bottom:1.04rem;}
+.FinanceCon>.yearBox .yearCon .annals .yearContent h3{font-size:15px;color:#fff;text-align: center;font-weight:bold;letter-spacing: 0.1rem}
+.FinanceCon>.yearBox .yearCon .annals .yearContent .annalsImgBox{width:2.0rem;height:2.55rem;margin:0 auto;margin-top:0.46rem;position:relative;}
+.FinanceCon>.yearBox .yearCon .annals .yearContent .annalsImgBox img{width:100%;height:auto;}
+.FinanceCon>.yearBox .yearCon .annals .yearContent .annalsImgBox .tit{font-size:0.42rem;line-height:0.42rem; position:absolute;top:0.15rem;left: -0.24rem;color:#fff;font-weight:bold;}
+.FinanceCon>.yearBox .yearCon .annals .yearContent .annalsImgBox .expect{font-size:0.26rem;line-height:0.26rem; position:absolute;top:0.85rem;left: -0.24rem;color:#fff;font-weight:bold;}
+.FinanceCon>.yearBox .yearCon .annals .yearContent .annalsImgBox i{width:0.35rem;height:0.04rem;background:#fff; position:absolute;top:0.64rem;left: -0.24rem;}
+.FinanceCon>.yearBox .yearCon .annals .yearContent .down{display:block; width:0.72rem;height:0.25rem;background:#fff;text-align:center;line-height:0.25rem;margin:0 auto;margin-top:27px;}
+
+/*-------------临时报告-------------*/
+.FinanceCon>.yearBox .temporary,.FinanceCon>.yearBox .dynamic{margin-top: 0.4rem;}
+.SportsFinancial>.SportsFinancialCon{margin-top:0.48rem;}
+.FinanceCon>.yearBox .temporary .MaxWidth{max-width:7.9rem}
+.SportsFinancial>.SportsFinancialCon>.container>.title{position: relative;height: 1.37rem;}
+.FinanceCon>.yearBox .temporary .title h3,.FinanceCon>.yearBox .dynamic .title h3 ,.SportsFinancial>.SportsFinancialCon>.container>.title h3{font-size: 0.24rem;color: #777;text-align: center;letter-spacing: 10px;font-weight: bold;text-indent: 10px;}
+.FinanceCon>.yearBox .temporary .title i,.FinanceCon>.yearBox .dynamic .title i ,.SportsFinancial>.SportsFinancialCon>.container>.title i{width: 35px;height: 4px;background: #4fb8e9;position: absolute;left: 50%;margin-left: -17.5px;top: 0.51rem;}
+.FinanceCon>.yearBox .temporary .temporaryListBox {margin-top:0.65rem;}
+.FinanceCon>.yearBox .temporary .temporaryListBox .list{margin-bottom:0.44rem;}
+.FinanceCon>.yearBox .temporary .temporaryListBox .list .time{font-size:12px;color:#4fb8e9;font-weight: bold;}
+.FinanceCon>.yearBox .temporary .temporaryListBox .list .temporaryTit{font-size:18px;font-weight:bold;color:#777;}
+.FinanceCon>.yearBox .temporary .temporaryListBox .list .temporaryCon{margin-top:0.22rem; font-size:0.12rem;color:#777;}
+/*-------------投资动态-------------*/
+.FinanceCon>.yearBox .dynamic .dynamicBox {overflow:hidden;margin-top:0.33rem;}
+.FinanceCon>.yearBox .dynamic .dynamicBox .list{width: 33.3%; float:left; position: relative;padding-right: 0.1rem;padding-top: 0.1rem;cursor: pointer;}
+.FinanceCon>.yearBox .dynamic .dynamicBox .list img{width:100%;height:auto; -webkit-user-select:none; -moz-user-select:none; -ms-user-select:none; user-select:none;}
+.FinanceCon>.yearBox .dynamic .dynamicBox .list .category{background: #5bbdea;border-radius: 2px;line-height: 0.18rem;width: 0.6rem;height: 0.18rem;font-size: 0.1rem;text-align: center;color: #fff;position: absolute;top: 0.08rem;right: 0.62rem;}
+.FinanceCon>.yearBox .dynamic .dynamicBox .list .time{ -webkit-user-select:none; -moz-user-select:none; -ms-user-select:none; user-select:none;background: #fff;border-radius: 2px;line-height: 0.18rem;width: 0.48rem;height: 0.18rem;font-size: 0.1rem;text-align: center;color: #4fb8e9;position: absolute;top: 0.13rem;right: 0.14rem;}
+.FinanceCon>.yearBox .dynamic .dynamicBox .list .mediaIntro {width: calc(100% - 0.1rem);height: 0.85rem;background: #49a9d6;position: absolute;left:0;bottom: 0;}
+.FinanceCon>.yearBox .dynamic .dynamicBox .list .mediaIntro p{letter-spacing: 0.03rem;padding: 0.1rem;font-size: 0.14rem;color: #fff;font-weight: bold;}
+.FinanceCon>.yearBox .dynamic .dynamicBox .list .mediaIntro a{ -webkit-user-select:none; -moz-user-select:none; -ms-user-select:none; user-select:none;font-size: 0.14rem;color: #fff;font-weight: bold;position: absolute;right: 0.1rem;/* bottom: 0.12rem; */}
+.FinanceCon>.yearBox .temporary .title,.FinanceCon>.yearBox .dynamic .title{height: 0.55rem;position:relative;}
+/*-------------体育金融-------------*/
+.SportsFinancial>.banner>img{width:100%;height:auto;}
+.SportsFinancial>.banner>img:nth-child(2){display:none;}
+/*.SportsFinancial>.banner>img:nth-child(3){display:none;}*/
+.SportsFinancial>.SportsFinancialCon>.container>.title{position: relative;height: 0.56rem;}
+.SportsFinancial>.SportsFinancialCon>.container>.content>h4{letter-spacing:0.06rem;text-indent: 0.06rem; font-size: 0.14rem;color:#777;font-weight:bold;text-align: center;}
+.SportsFinancial>.SportsFinancialCon>.container>.content{margin-top:0.85rem;}
+.SportsFinancial>.SportsFinancialCon .content>.MainCon{max-width: 790px;margin:0 auto; margin-top:0.27rem; font-size: 0.12rem;color:#777;letter-spacing:3.4px;text-align: justify;}
+.SportsFinancial>.SportsFinancialCon .MainCon1{max-width:9.38rem;margin:0 auto;margin-top:0.42rem; text-align:center; font-size: 0.14rem;color:#777;letter-spacing: 2.5px;}
+.SportsFinancial>.SportsFinancialCon .MainCon2{max-width:8.5rem;margin:0 auto;margin-top:0.38rem; text-align:center; font-size: 0.14rem;color:#777;letter-spacing: 2.2px;}
+.SportsFinancial>.SportsFinancialCon>.SportsFinancialBac{width:100%;height:3.38rem;background:url(../images/SportsFinancialBac.jpg) center no-repeat;margin-bottom:0.4rem;margin-top: 0.7rem;}
+.SportsFinancial>.SportsFinancialCon>.competitiveness{width:100%;height:5.44rem;background:url(../images/competitiveness.gif) center no-repeat;margin-bottom:0.4rem;margin-top: 0.7rem;}
+.SportsFinancial>.SportsFinancialCon>.SportsFinancialBac img:nth-child(2){display:none;}
+.SportsFinancial>.SportsFinancialCon>.SportsFinancialBac img:nth-child(3){display:none;}
+.SportsFinancial>.SportsFinancialCon>.SportsFinancialBac img,.SportsFinancial>.SportsFinancialCon>.competitiveness img{width:100%;height:auto;}
+.SportsFinancial>.SportsFinancialCon>.competitiveness img:nth-child(2){display:none;}
+.SportsFinancial>.SportsFinancialCon>.competitiveness img:nth-child(3){display:none;}
+.SportsFinancial>.SportsFinancialCon>.container>.culture{width:6.62rem;margin:0 auto;margin-top:0.83rem; margin-bottom:0.58rem;}
+.SportsFinancial>.SportsFinancialCon>.container>.culture img{}
+.SportsFinancial>.SportsFinancialCon>.container>.administrator img{float:left;}
+.SportsFinancial>.SportsFinancialCon>.container>.administrator img:nth-child(2){display:none;}
+.SportsFinancial>.SportsFinancialCon>.container>.administrator{overflow:hidden;width:90%;margin:0 auto;}
+.SportsFinancial>.SportsFinancialCon>.container>.administrator .personintro{margin-left:2.76rem;}
+.SportsFinancial>.SportsFinancialCon>.container>.administrator .name{font-size:0.18rem;font-weight:bold;color:#777;line-height:0.4rem;letter-spacing:0.1rem;padding-top:0.17rem;}
+.SportsFinancial>.SportsFinancialCon>.container>.administrator .position{font-size:0.12rem;font-weight:bold;color:#4fb8e9;letter-spacing: 0.04rem;}
+.SportsFinancial>.SportsFinancialCon>.container>.administrator .intro{max-width:7.5rem;text-align:justify; font-size:0.12rem;color:#777;margin-top:0.57rem;letter-spacing: 0.015rem;}
+.SportsFinancial>.SportsFinancialCon>.container>.administrator1{margin-top:0.69rem;}
+.SportsFinancial>.SportsFinancialCon>.container>.administrator2{margin-top:0.13rem;}
+.SportsFinancial>.SportsFinancialCon>.contactUs{margin-top:0.84rem;}
+.SportsFinancial>.SportsFinancialCon>.contactUs .MainCon{margin-top:0.33rem;}
+.SportsFinancial>.SportsFinancialCon>.contactUs ul>li{letter-spacing:0.02rem; width:33.3%;float:left;font-size:0.18rem;color:#777;text-align: center;}
+
+.SportsFinancial>.SportsFinancialCon>.contactUs ul{overflow:hidden; margin-bottom:1.02rem;}
+.competitivenessCon{margin-bottom:0.7rem;display:none;}
+
+
+
+
+
+
+/*ipad*/
+@media (min-width: 641px) and (max-width: 992px) {
+/*媒体报道*/
+.col-xs-8{width:100%;margin:0 auto;padding-right:0!important;}
+.mediaCon>.container>.concent .conBox .address{display:none;}
+/*-------------媒体报道-详情-------------*/
+.particulars>.container>.concent .conBox .address{display:none;}
+.particulars>.banner{height:1.7rem;width:100%;background:url(../images/parIpadBan.jpg) center no-repeat;}
+/*-------------财物报告-------------*/
+.FinanceCon>.yearBox>.navbac .container ul>.list .year{padding:0 0.5rem;}
+.FinanceCon>.yearBox>.yearCon .annals .yearContent h3{letter-spacing:5px;}
+/*体育金融*/
+.SportsFinancial>.SportsFinancialCon>.contactUs ul>li{font-size:0.15rem}
+.SportsFinancial>.SportsFinancialCon>.competitiveness img:nth-child(1){display:none;}
+.SportsFinancial>.SportsFinancialCon>.competitiveness img:nth-child(2){display:block;}
+.SportsFinancial>.SportsFinancialCon>.competitiveness img:nth-child(3){display:none;}
+/*.SportsFinancial>.SportsFinancialCon>.SportsFinancialBac img:nth-child(1){display:none;}
+.SportsFinancial>.SportsFinancialCon>.SportsFinancialBac img:nth-child(2){display:block;}
+.SportsFinancial>.SportsFinancialCon>.SportsFinancialBac img:nth-child(3){display:none;}*/
+.SportsFinancial>.SportsFinancialCon>.SportsFinancialBac{width:100%;height:2.45rem;background:url(../images/SportsFinancialBacIpad.jpg) center no-repeat;margin-bottom:0.4rem;margin-top: 0.7rem;background-size: cover;}
+.SportsFinancial>.SportsFinancialCon>.competitiveness{width:100%;height:3.8rem;background:url(../images/competitivenessIpad.png) center no-repeat;margin-bottom:0.4rem;margin-top: 0.7rem;background-size: cover;}
+.SportsFinancial>.SportsFinancialCon>.container>.culture img {width: 100%;height: auto;}
+.SportsFinancial>.SportsFinancialCon>.container>.culture{width:6.22rem;}
+}
+/*手机*/
+@media (max-width: 640px){
+/*公用*/
+.banner>img:nth-child(1){display:none;}
+.banner>img:nth-child(2){display:block!important;}
+/*联系方式*/
+
+.connection>.address .contactTit .content .underline{left:50%!important;margin-left:-0.24rem;}
+.connection>.address .contactTit .content{left:50%;-webkit-transform:translate(-50%,0);-moz-transform:translate(-50%,0);transform:translate(-50%,0);}
+.connection>.address .addressCon {height:2.46rem!important;background: #5bbdeb;}
+.connection>.address .addressCon .addressConMain .addressBox{width:3.06rem;height:2.06rem;margin-top:0.22rem;}
+.connection>.address .addressCon .addressConMain .addressBox>.icon{width:0.42rem!important;height:0.48rem!important;}
+.connection>.address .addressCon .addressConMain .addressBox>.con h2{margin-top:0.18rem!important;}
+.connection>.address .addressCon .addressConMain .addressBox>.con h4{margin-top:0.18rem!important;}
+.connection>.address .addressCon .addressConMain .addressBox>.con p{margin-top:0.08rem!important;}
+.connection>.address .addressCon .addressConMain .addressBox>.con {margin-top: 0.19rem!important;}
+.f-c-2{width:100%!important;padding: 0 0.95rem!important;margin-top:55px;}
+.connection>.emal ul{min-height:0!important;}
+/*媒体报道*/
+.mediaCon>.container>.concent .NavBox .list{color:#777;font-size:0.2083rem}
+.mediaCon>.container>.concent .NavBox .active{color:#5fbeeb;}
+.mediaCon>.container>.concent .NavBox .active>i{display:block;}
+.mediaCon>.container>.concent .conBox .address{display:none;}
+.mediaCon>.container>.concent .conBox .category{right: 0.14rem;top: 0.36rem;}
+.col-xs-8{width:100%;margin:0 auto;padding: 0;}
+.paging .pagingPC{display:none;}
+.paging .pagingM{display:block;}
+/*媒体报道-详情*/
+.particulars>.container>.concent .conBox .address{display:none;}
+.particulars>.container>.concent .conBox .connetLeft{width:100%;padding-right:0;}
+.particulars>.container>.concent .conBox .connetLeft .con img{width:100%;}
+.particulars>.banner{height:1.7rem;width:100%;background:url(../images/parMBan.jpg) center no-repeat;background-size: cover;}
+.particulars>.banner .container{display:none;}
+/*财物报告*/
+.FinanceCon>.container>.concent .nav .active>i {display: block;}
+.FinanceCon>.yearBox>.navbac .container ul>.list{width:100%;border-bottom:1px solid #fff;opacity: 0.9;}
+.FinanceCon>.yearBox>.navbac .container ul>.active{background: #4fb8e9;opacity:1}
+.FinanceCon>.yearBox>.navbac .container ul>.list .year{border-right:none;font-size:0.24rem}
+.FinanceCon>.yearBox>.navbac .container {padding: 0;}
+.FinanceCon>.yearBox .yearCon .annals .yearContent .Propertyreport{width:100%;margin-bottom: 1.04rem;}
+.FinanceCon>.yearBox>.navbac .container ul{height:0.48rem;overflow:hidden;z-index:1;position: relative;}
+.FinanceCon>.yearBox>.navbac .container ul>.list i{display:block;}
+.FinanceCon>.yearBox .temporary .title{display:none;}
+.FinanceCon>.yearBox .temporary .temporaryListBox{margin-top:0;}
+/*投资动态*/
+.FinanceCon>.yearBox .dynamic .title{display:none;}
+.FinanceCon>.yearBox .dynamic .dynamicBox .list{width:50%;}
+/*体育金融*/
+.SportsFinancial>.SportsFinancialCon>.container>.administrator img{float:none;}
+.SportsFinancial>.SportsFinancialCon>.container>.administrator img:nth-child(1){display:none;}
+.SportsFinancial>.SportsFinancialCon>.container>.administrator img:nth-child(2){display:block;}
+/*.SportsFinancial>.SportsFinancialCon>.SportsFinancialBac img:nth-child(1){display:none;}
+.SportsFinancial>.SportsFinancialCon>.SportsFinancialBac img:nth-child(2){display:none;}
+.SportsFinancial>.SportsFinancialCon>.SportsFinancialBac img:nth-child(3){display:block;}*/
+.SportsFinancial>.SportsFinancialCon>.SportsFinancialBac{width:100%;height:1.53rem;background:url(../images/SportsFinancialBacM.jpg) center no-repeat;margin-bottom:0.4rem;margin-top: 0.7rem; background-size: cover;}
+.SportsFinancial>.SportsFinancialCon>.competitiveness{width:100%;height:3.09rem;background:url(../images/competitivenessM.png) center no-repeat;margin-bottom:0.4rem;margin-top: 0.7rem; background-size: cover;}
+.SportsFinancial>.SportsFinancialCon>.container>.administrator{overflow:hidden;width:100%;margin:0 auto;}
+.SportsFinancial>.SportsFinancialCon>.container>.administrator .personintro{margin-left:0;}
+.SportsFinancial>.SportsFinancialCon>.container>.administrator .intro{padding-top: 0.18rem;;clear:both;}
+.SportsFinancial>.SportsFinancialCon>.contactUs ul>li{float:none; width: 160px;margin: 0 auto;text-align: left;}
+.SportsFinancial>.SportsFinancialCon>.container>.culture{width:80%;}
+.SportsFinancial>.SportsFinancialCon>.competitiveness img:nth-child(1){display:none;}
+.SportsFinancial>.SportsFinancialCon>.competitiveness img:nth-child(2){display:none;}
+.SportsFinancial>.SportsFinancialCon>.competitiveness img:nth-child(3){display:block;}
+.competitivenessCon{margin-bottom:0.7rem;display:block!important;}
+.competitivenessCon .container{max-width:5rem}
+.competitivenessCon h3{font-size:0.2083rem; color:#777;font-weight:bold;letter-spacing: 5px;}
+.competitivenessCon .h3MarginTop{margin-top:0.38rem;}
+.competitivenessCon p{font-size:0.2083rem; color:#777;margin-top:0.13rem;text-align: justify;}
+.SportsFinancial>.SportsFinancialCon>.container>.content{margin-top: 0.44rem;}
+.SportsFinancial>.SportsFinancialCon{margin-top:0.3rem;}
+.SportsFinancial>.SportsFinancialCon>.SportsFinancialBac{margin-top:0.33rem;}
+.SportsFinancial>.SportsFinancialCon>.container>.culture{margin-bottom: 0.64rem;}
+.SportsFinancial>.SportsFinancialCon>.container>.administrator img{width:100%;height:auto;}
+.SportsFinancial>.SportsFinancialCon>.container>.administrator .name {font-size: 0.283rem;font-weight: bold;color: #777;line-height: 0.4rem;letter-spacing: 0.1rem;padding-top: 0.3rem;float: left;}
+.SportsFinancial>.SportsFinancialCon>.container>.administrator .position {font-size: 0.12rem;font-weight: bold;color: #4fb8e9;letter-spacing: 0.04rem;float: left;padding-top: 0.3rem;line-height: 0.4rem;margin-left: 10px;}
+.SportsFinancial>.SportsFinancialCon .MainCon,.SportsFinancial>.SportsFinancialCon .MainCon2{text-align:left;}
+.SportsFinancial>.SportsFinancialCon>.container>.culture img {width: 100%;height: auto;}
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

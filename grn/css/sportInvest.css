@@ -1,0 +1,138 @@
+body,html{
+    overflow-x: hidden;
+}
+.underline{
+    width: 35px;
+    height: 4px;
+    background:#4eb9e3;
+}
+/*banner*/
+.milestoneBanner{
+    padding: 0;
+    margin: 0;
+}
+.sport_brand_title{
+    margin-top: 38px;
+    margin-bottom: 30px;
+}
+.sport_brand_title h4{
+    font-size: 22px;
+    color: #777;
+}
+@media (min-width: 768px){
+    .sport_brand_title{
+        margin-top: 61px;
+        margin-bottom: 36px;
+    }
+}
+@media (min-width: 992px){
+    .sport_brand_title{
+        margin-top: 89px;
+        margin-bottom: 64px;
+    }
+}
+.sport_brand_title .underline{
+    margin-top: 20px;
+}
+.dongYuLogo{
+    margin-bottom: 30px;
+}
+@media (max-width: 768px){
+    .dongYuLogo img{
+        max-width: 37.8%;
+    }
+}
+/*团队*/
+.leaders_main_box{
+    margin-bottom: 13px;
+    color: #777;
+}
+.leaders_main_title{
+    margin-top: 15px;
+    margin-bottom: 9px;
+}
+.leaders_main_title b{
+    font-size: 15px;
+    letter-spacing: 6px;
+    margin-right: 20px;
+}
+.leaders_main_title span{
+    font-size: 12px;
+    color:#4eb9e3;
+    font-weight: 900;
+}
+@media (min-width: 768px){
+    .leaders_main_title{
+        margin-top: 28px;
+        margin-bottom: 50px;
+    }
+    .leaders_main_title b{
+        font-size: 18px;
+        letter-spacing: 10px;
+    }
+    .leaders_main_title span{
+        font-size: 12px;
+        letter-spacing: 5px;
+    }
+}
+.main_leader_boxes{
+    margin-bottom: 20px;
+}
+/*访问我们*/
+.visit_us{
+    margin: 40px auto;
+    width: 150px;
+    height: 27px;
+    background:#4eb9e3;
+    text-align: center;
+    letter-spacing: 3px;
+    line-height: 27px;
+}
+.visit_us a{
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+    color: #fff;
+    font-size: 12px;
+}
+@media (min-width: 768px){
+    .visit_us{
+        margin: 60px auto;
+        width: 200px;
+        height: 36px;
+        letter-spacing: 5px;
+        line-height: 36px;
+    }
+    .visit_us a{
+        font-size: 14px;
+    }
+}
+@media (min-width: 992px){
+    .visit_us{
+        margin: 80px auto;
+        width: 200px;
+        height: 36px;
+        letter-spacing: 5px;
+        line-height: 36px;
+    }
+    .visit_us a{
+        font-size: 14px;
+    }
+}
+.dongYu_introduce{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+@media (min-width: 768px){
+    .dongYu_introduce{
+        width: 93.2%;
+    }
+}
+@media (max-width: 768px){
+    .leaders_img{
+        padding-left: 0;
+        padding-right: 0;
+    }
+}
+

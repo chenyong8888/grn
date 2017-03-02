@@ -1,0 +1,172 @@
+body,html{
+    overflow-x: hidden;
+}
+.hid{
+    display: none;
+}
+/*banner*/
+.milestoneBanner{
+    padding: 0;
+    margin: 0;
+}
+/*view_more*/
+.view_more_box{
+    height: 250px;
+}
+.view_more{
+    display: block;
+    width: 134px;
+    height: 34px;
+    font-size: 12px;
+    line-height: 33px;
+    background:#4eb9e3;
+    color: #fff;
+    position: absolute;
+    left: 50%;
+    margin-left: -67px;
+    top:50%;
+    margin-top:-17px;
+}
+/*介绍部分*/
+.introduce_nav{
+    width: 100%;
+    margin: 40px auto 0;
+    font-size: 23px;
+}
+.underline{
+    width: 35px;
+    height: 4px;
+    background:#4eb9e3;
+}
+.introduce_nav .underline{
+    margin: 19px auto 0;
+}
+.cut-off-line-right,.cut-off-line-left{
+    height: 32px;
+    width: 1px;
+    position: absolute;
+    background:#dcf1fb;
+    top:0;
+}
+.cut-off-line-right{
+    right:0;
+}
+.cut-off-line-left{
+    left: 0;
+}
+.introduce_nav a{
+    color: #000;
+}
+@media (min-width: 768px){
+    .introduce_nav{
+        width: 775px;
+        font-size: 12px;
+        color: #4eb9e3;
+        height: 35px;
+        line-height: 35px;
+    }
+    .introduce_nav a{
+        color: #4eb9e3;
+    }
+}
+@media (min-width: 992px){
+    .introduce_nav{
+        width: 775px;
+        font-size: 12px;
+        color: #4eb9e3;
+        height: 35px;
+        line-height: 35px;
+    }
+    .introduce_nav a{
+        color: #4eb9e3;
+    }
+}
+/*蓝条与里程碑的公共类*/
+.step_top{
+    margin-top: 58px;
+}
+.detail_step_top{
+    margin-top:29px;
+}
+/*蓝条*/
+.blue_bar{
+    width: 48px;
+    height: 100%;
+    background:#4eb9e3;
+    padding-bottom: 36px;
+}
+@media (max-width: 768px){
+    .blue_bar{
+        width: 36px;
+    }
+}
+.stay_white{
+    height: 95px;
+}
+@media (min-width: 768px){
+    .stay_white{
+        height: 75px;
+    }
+}
+.milestone_box_blue:before{
+    content: "";
+    display: table;
+}
+.milestone_box_blue .big_ball{
+    width: 14px;
+    height: 14px;
+    background: linear-gradient(135deg,#b9e3f6 0,#fff 100%);
+    border-radius: 7px;
+    margin:9px auto 0;
+}
+.milestone_box_blue .small_ball{
+    width: 8px;
+    height: 8px;
+    background: linear-gradient(135deg,#b9e3f6 0,#fff 100%);
+    border-radius:4px;
+    margin:0 auto;
+}
+.milestone_box_blue .line{
+    width: 2px;
+    background: #b9e3f6;
+    margin: 0 auto;
+    opacity: 0.7;
+}
+/*里程碑*/
+.milestone_box .underline{
+    margin-top: 16px;
+}
+.milestone_box .title{
+    overflow: hidden;
+}
+.milestone_box .title b{
+    font-size: 19px;
+}
+.detail{
+    overflow: hidden;
+    font-size: 17px;
+}
+.detail b{
+    width: 40px;
+    float: left;
+}
+.detail .article{
+    box-sizing: border-box;
+    width: calc(100% - 40px);
+    float: left;
+    padding-left: 30px;
+}
+.introduce_nav a.nowPage{
+    color: #a4d6f2;
+}
+.no_mouth_year{
+    width: 50px;
+    float: left;
+}
+.no_mouth_article{
+    box-sizing: border-box;
+    width: calc(100% - 50px);
+    float: left;
+    padding-left: 30px;
+    font-size: 17px;
+}

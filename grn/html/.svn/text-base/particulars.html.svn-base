@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+<meta charset="utf-8">
+<meta name="renderer" content="webkit">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>媒体报道-详情</title>
+<link href="../css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="../css/ieViewportBug.css"/>
+<link rel="stylesheet" href="../css/common.css">
+<link rel="stylesheet" href="../css/ZDKmain.css">
+<!--[if lt IE 9]>
+<script src="../js/html5shiv.min.js"></script>
+<script src="../js/respond.min.js"></script>
+<![endif]-->
+<script src="../js/ieViewportBug.js"></script>
+</head>
+<body>
+	<div class="header"></div>
+	<div class="main">
+		<div class="particulars">
+			<div class="banner">
+			<div class="container"><img src="../images/particulars.png" alt=""></div>
+				<!-- <img src="../images/parPcBan.jpg" alt=""> -->
+				<!-- <img src="../images/parIpadBan.jpg" alt=""> -->
+				<!-- <img src="../images/parMBan.jpg" alt=""> -->
+			</div>
+			<div class="Topbread">
+				<div class="container">
+					<div class="conner">
+						<a href="index.html"target="_blank">Home</a>
+						<span class="classer"></span>
+						<a href="media.html"target="_blank">新闻中心</a>
+						<span class="classer"></span>
+						<a href="">媒体报道</a>
+					</div>
+				</div>
+			</div>
+			<div class="container">
+				<div class="concent">
+					<div class="conBox row">
+						<div class="connetLeft col-xs-8">
+							<div class="Newtype">
+								<span class="types">媒体报道</span>
+								<span class="time">2016-12-1</span>
+							</div>
+							<div class="titler">
+								<h3>贵人鸟拟收购威尔士健身母公司，打造多元化体育产业链</h3>
+							</div>
+							<i></i>
+							<div class="from">
+								<span id="from">新浪体育</span>
+								<span>来源&nbsp&nbsp&nbsp-&nbsp&nbsp&nbsp-&nbsp&nbsp</span>
+							</div>
+							<div class="con">
+								12月16日，贵人鸟发布公告称，拟收购威尔士健身母公司威康健身100%的股权，预计该事项将构成重大资产重组，公司股票将继续停牌。
+								<img src="../images/parPcImg.jpg" alt="">
+								贵人鸟在该公告中称双方已签署框架协议，最终确定交易价格与交易方式还待进一步核实、审计和评估后才能决定，但贵人鸟表示本次交易金额预计不低于公司最近一期经审核的净资产的50%以上，构成重大资产重组。
+								</br>
+								</br>
+								公开信息显示，威尔士健身目前在全国拥有115家直营健身俱乐部，主要分布在北京和华东地区。而双方的战略合作，或意在“造就中国最大的体育生态产业链上市公司”——据悉，除贵人鸟外，近一年来已经有很多公司寻求与威尔士健身的合作。
+								</br>
+								</br>
+								而贵人鸟很早就开始体育产业投资领域的多元化布局，除了参股虎扑体育、投资互联网体育项目之外，今年以来贵人鸟动作更加频繁，不仅通过控股杰之行、名鞋库、星友科技加强发力线上零售渠道，更于十月份获得了美国篮球装备品牌AND1在大中华区的独家运营权，希望从传统运动鞋服制造企业向多元化的体育竞技娱乐服务企业转型，并打造更完整多远的体育产业链。
+							</div>
+						</div>
+						<div class="col-xs-4 address">
+							<div class="logo"></div>
+							<h2>公司地址</h2>
+							<h4>贵人鸟股份有限公司</h4>
+							<p>厦门市湖里区泗水道 629 号</p>
+							<p>五缘湾运营中心翔安商务大厦 18 层</p>
+							<p>邮政编码：361000</p>
+						</div>
+					</div>
+				</div>
+			</div>
+
+		</div>
+
+	</div>
+	<div class="footer"></div>
+<script src="../js/jquery-2.1.1.min.js"></script>
+<script src="../js/bootstrap.js"></script>
+<script src="../js/jquery.bootstrap-dropdown-on-hover.js"></script>
+<script src="../js/common.js"></script>
+<!-- <script src="../js/ZDKhome.js"></script> -->
+</body>
+</html>

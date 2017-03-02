@@ -1,0 +1,24 @@
+.main .container{
+    padding: 0;
+}
+/*轮播控制*/
+/*#home-banner .left,#home-banner .right{*/
+    /*background: none;*/
+/*}*/
+#home-banner .home-banner-left-arrow,#home-banner  .home-banner-right-arrow{
+    position: absolute;
+    top:50%;
+    left: 50%;
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -ms-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+    width: 19px;
+    height: 23px;
+}
+#home-banner .home-banner-left-arrow{
+    background: url("../images/arrowLeftHMZ.png") no-repeat left top;
+}
+#home-banner  .home-banner-right-arrow{
+    background: url("../images/arrowRightHMZ.png") no-repeat left top;
+}

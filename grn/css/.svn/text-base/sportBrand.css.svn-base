@@ -1,0 +1,110 @@
+body,html{
+    overflow-x: hidden;
+}
+.bg{
+    background: rgb(79,184,232);
+}
+.underline{
+    width: 35px;
+    height: 4px;
+    background:#4eb9e3;
+}
+/*banner*/
+.milestoneBanner{
+    padding: 0;
+    margin: 0;
+}
+/*标题*/
+.sport_brand_title{
+    margin-top: 38px;
+    margin-bottom: 30px;
+}
+.sport_brand_title h4{
+    font-size: 22px;
+    color: #777;
+}
+@media (min-width: 768px){
+    .sport_brand_title{
+        margin-top: 61px;
+        margin-bottom: 42px;
+    }
+}
+@media (min-width: 992px){
+    .sport_brand_title{
+        margin-top: 89px;
+        margin-bottom: 64px;
+    }
+}
+.sport_brand_title .underline{
+    margin-top: 20px;
+}
+/*内容*/
+.bg{
+    margin-top: 76px;
+}
+.grnImg{
+    margin-top: -76px;
+}
+.sportsLogo{
+    margin-top: 17px;
+    margin-bottom: 17px;
+}
+.grnLogo{
+    width: 13.3%;
+}
+@media (min-width: 768px){
+    .bg{
+        margin-top: 105px;
+    }
+    .grnImg{
+        margin-top: -105px;
+    }
+    .sportsLogo{
+        margin-top: 35px;
+        margin-bottom: 35px;
+    }
+}
+@media (min-width: 992px){
+    .bg{
+        margin-top: 152px;
+    }
+    .grnImg{
+        margin-top: -152px;
+    }
+    .sportsLogo{
+        margin-top: 35px;
+        margin-bottom: 35px;
+    }
+}
+.article{
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+.article p{
+    margin-bottom: 35px;
+}
+@media (min-width: 768px){
+    .article{
+        margin-top: 40px;
+        margin-bottom: 45px;
+    }
+}
+.andLogo{
+    width: 34.1%;
+}
+
+.article_words{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+@media (min-width: 768px){
+    .article_words{
+        width: 79.2%;
+    }
+}
+@media (min-width: 992px){
+    .article_words{
+        width: 91.3%;
+    }
+}

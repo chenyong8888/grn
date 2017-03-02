@@ -1,0 +1,149 @@
+body,html{
+    overflow-x: hidden;
+}
+.bg{
+    background: rgb(79,184,232);
+}
+/*banner*/
+.milestoneBanner{
+    padding: 0;
+    margin: 0;
+}
+/*view_more*/
+.view_more_box{
+    height: 155px;
+}
+.view_more{
+    display: block;
+    width: 134px;
+    height: 34px;
+    font-size: 12px;
+    line-height: 33px;
+    background:#4eb9e3;
+    color: #fff;
+    position: absolute;
+    left: 50%;
+    margin-left: -67px;
+    top:50%;
+    margin-top:-17px;
+}
+/*介绍部分*/
+.introduce_nav a.nowPage{
+    color: #a4d6f2;
+}
+.introduce_nav{
+    width: 100%;
+    margin: 40px auto 0;
+    font-size: 23px;
+}
+.underline{
+    width: 35px;
+    height: 4px;
+    background:#4eb9e3;
+}
+.introduce_nav .underline{
+    margin: 19px auto 0;
+}
+.cut-off-line-right,.cut-off-line-left{
+    height: 32px;
+    width: 1px;
+    position: absolute;
+    background:#dcf1fb;
+    top:0;
+}
+.cut-off-line-right{
+    right:0;
+}
+.cut-off-line-left{
+    left: 0;
+}
+.introduce_nav a{
+    color: #000;
+}
+@media (min-width: 768px){
+    .introduce_nav{
+        width: 775px;
+        font-size: 12px;
+        color: #4eb9e3;
+        height: 35px;
+        line-height: 35px;
+    }
+    .introduce_nav a{
+        color: #4eb9e3;
+    }
+}
+@media (min-width: 992px){
+    .introduce_nav{
+        width: 775px;
+        font-size: 12px;
+        color: #4eb9e3;
+        height: 35px;
+        line-height: 35px;
+    }
+    .introduce_nav a{
+        color: #4eb9e3;
+    }
+}
+/*管理理念*/
+.manage_idea{
+    font-size: 22px;
+    margin-top: 45px;
+    margin-bottom: 30px;
+    color: #777;
+}
+.manage_idea_underline{
+    margin-bottom: 38px;
+}
+.manage_idea_article{
+    margin-bottom: 38px;
+}
+/*核心领导层*/
+.leaders_title{
+    margin-top: 42px;
+    margin-bottom: 20px;
+    font-size: 22px;
+    color: #545454;
+}
+.leaders_underline{
+    margin-bottom: 31px;
+}
+@media (min-width: 768px){
+    .leaders_underline{
+        margin-bottom: 93px;
+    }
+}
+.leaders_main_box{
+    margin-bottom: 13px;
+    color: #545454;
+}
+.leaders_main_title{
+    margin-top: 15px;
+    margin-bottom: 9px;
+    color: #545454;
+}
+.leaders_main_title b{
+    font-size: 15px;
+    letter-spacing: 6px;
+    margin-right: 20px;
+}
+.leaders_main_title span{
+    font-size: 12px;
+    color:#4eb9e3;
+}
+@media (min-width: 768px){
+    .leaders_main_title{
+        margin-top: 28px;
+        margin-bottom: 50px;
+    }
+    .leaders_main_title b{
+        font-size: 18px;
+        letter-spacing: 10px;
+    }
+    .leaders_main_title span{
+        font-size: 12px;
+        letter-spacing: 5px;
+    }
+}
+.main_leader_boxes{
+    margin-bottom: 70px;
+}

@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+    <meta charset="utf-8">
+    <meta name="renderer" content="webkit">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>贵人鸟官网</title>
+    <link href="../css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="../css/ieViewportBug.css"/>
+    <link rel="stylesheet" href="../css/common.css">
+    <link rel="stylesheet" href="../css/HMZAboutUs.css">
+    <!--[if lt IE 9]>
+    <script src="../js/html5shiv.min.js"></script>
+    <script src="../js/respond.min.js"></script>
+    <![endif]-->
+    <script src="../js/ieViewportBug.js"></script>
+</head>
+<body>
+<div class="header"></div>
+<div class="main">
+    <div class="jumbotron usBanner">
+        <img src="../images/homeBanner2HMZ.jpg" class="img-responsive">
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 sketch_box">
+                <div class="sketch text-center">
+                    <h4>我们的集团</h4>
+                    <p>我们是一家致力于全面满足消费者运动需求的体育公司。</p>
+                    <p>我们是一家致力于全面满足消费者运动需求的体育公司。</p>
+                    <p>我们是一家顺应时势、不断创新、开拓进取的体育公司。</p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xs-12">
+                <div class="introduce_nav">
+                    <div class="container-fluid">
+                        <div class="row">
+                            <div class="col-sm-4 text-center col-xs-12">
+                                <span><a href="#" class="nowPage"><b>关&nbsp;于&nbsp;我&nbsp;们</b></a><p class="cut-off-line-right hidden-xs"></p></span>
+                                <p class="underline visible-xs"></p>
+                            </div>
+                            <div class="col-sm-4 text-center hidden-xs"><a href="../html/milestone.html"><b>里&nbsp;程&nbsp;碑</b></a></div>
+                            <div class="col-sm-4 text-center hidden-xs"><p class="cut-off-line-left"></p><a href="../html/leaders.html"><b>领&nbsp;导&nbsp;层</b></a></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xs-12 aboutUsLogo_box">
+                <div class="aboutUsLogo">
+                    <img src="../images/aboutUsLogo.png" class="img-responsive">
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xs-12">
+                <h4 class="text-center introduce_title">
+                    <b>1987年</b>
+                    <br class="hidden-xs">
+                    <span class="hidden-lg hidden-md hidden-sm">,</span>
+                    <b>为快乐运动而生</b>
+                </h4>
+                <p class="underline hidden-xs introduce_title_underline"></p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xs-12 introduce_article">
+                <p>我们是一家致力于全面满足消费者运动需求的体育公司。 在中国，体育运动经历了漫长的竞技观赏时代之后，已经逐渐走入大众的生活，成为我们是一家致力于全面满足消费者运动需求的体育公司。 在中国，体育运动经历了漫长的竞技观赏时代之后，已经逐渐走入大众的生活，成为我们是一家致力于全面满足消费者运动需求的体育公司。 在中国，体育运动经历了漫长的竞技观赏时代之后，已经逐渐走入大众的生活，成为我们是一家致力于全面满足消费者运动需求的体育公司。 在中国，体育运动经历了漫长的竞技观赏时代之后，已经逐渐走入大众的生活，成为</p>
+                <p>我们是一家致力于全面满足消费者运动需求的体育公司。 在中国，体育运动经历了漫长的竞技观赏时代之后，已经逐渐走入大众的生活，成为我们是一家致力于全面满足消费者运动需求的体育公司。 在中国，体育运动经历了漫长的竞技观赏时代之后，已经逐渐走入大众的生活，成为我们是一家致力于全面满足消费者运动需求的体育公司。 在中国，体育运动经历了漫长的竞技观赏时代之后，已经逐渐走入大众的生活，成为我们是一家致力于全面满足消费者运动需求的体育公司。 在中国，体育运动经历了漫长的竞技观赏时代之后，已经逐渐走入大众的生活，成为</p>
+                <p>我们是一家致力于全面满足消费者运动需求的体育公司。 在中国，体育运动经历了漫长的竞技观赏时代之后，已经逐渐走入大众的生活，成为我们是一家致力于全面满足消费者运动需求的体育公司。 在中国，体育运动经历了漫长的竞技观赏时代之后，已经逐渐走入大众的生活，成为我们是一家致力于全面满足消费者运动需求的体育公司。 在中国，体育运动经历了漫长的竞技观赏时代之后，已经逐渐走入大众的生活，成为我们是一家致力于全面满足消费者运动需求的体育公司。 在中国，体育运动经历了漫长的竞技观赏时代之后，已经逐渐走入大众的生活，成为</p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xs-12 introduce_article_view_more">
+                <a class="view_more visible-xs text-center">view more</a>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xs-12 speech_title">
+                <h4 class="speech text-center"><b>董事长致辞</b></h4>
+                <p class="underline"></p>
+            </div>
+        </div>
+    </div>
+    <div class="bg">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-3 col-xs-12 speech_img">
+                    <img src="../images/dongshizhangHMZ.jpg" class="img-responsive hidden-xs speech_img_pc">
+                    <img src="../images/dongshizhangMHMZ.jpg" class="img-responsive visible-xs speech_img_m">
+                </div>
+                <div class="col-sm-9 col-xs-12">
+                    <div class="speech_article">
+                        <h4>深耕体育、创造价值，主动创新、拥抱未来！</h4>
+                        <p>自企业创立近30年以来，贵人鸟始终践行“人为本、和为贵”的商业理念，坚持“运动快乐”的企业精神，致力于打造中国领先的体育产业龙</p>
+                        <p>自企业创立近30年以来，贵人鸟始终践行“人为本、和为贵”的商业理念，坚持“运动快乐”的企业精神，致力于打造中国领先的体育产业龙自企业创立近30年以来，贵人鸟始终践行“人为本、和为贵”的商业理念，坚持“运动快乐”的企业精神，致力于打造中国领先的体育产业龙</p>
+                        <p>自企业创立近30年以来，贵人鸟始终践行“人为本、和为贵”的商业理念，坚持“运动快乐”的企业精神，致力于打造中国领先的体育产业龙自企业创立近30年以来，贵人鸟始终践行“人为本、和为贵”的商业理念，坚持“运动快乐”的企业精神，致力于打造中国领先的体育产业龙</p>
+                        <p>自企业创立近30年以来，贵人鸟始终践行“人为本、和为贵”的商业理念，坚持“运动快乐”的企业精神，致力于打造中国领先的体育产业龙自企业创立近30年以来，贵人鸟始终践行“人为本、和为贵”的商业理念，坚持“运动快乐”的企业精神，致力于打造中国领先的体育产业龙</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row speech_box">
+            <div class="col-xs-12">
+                <h4 class="text-center vision_title">
+                    <b>企业使命与愿景</b>
+                    <p class="underline"></p>
+                </h4>
+            </div>
+            <div class="col-xs-12">
+                <p class="vision_detial">
+                    <span class="vision_title_head"><b>我们的愿景：</b></span>
+                    <span class="vision_title_body">成为中国体育产业千亿级龙头公司</span>
+                </p>
+            </div>
+            <div class="col-xs-12">
+                <p class="vision_detial">
+                    <span class="vision_title_head"><b>我们的使命：</b></span>
+                    <span class="vision_title_body">全面满足每一个人的运动需求</span>
+                </p>
+            </div>
+            <div class="col-xs-12">
+                <p class="vision_detial">
+                    <span class="vision_title_head"><b>我们的核心价值观：</b></span>
+                    <span class="vision_title_body">诚信  团队  激情</span>
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="footer"></div>
+<script src="../js/jquery-2.1.1.min.js"></script>
+<script src="../js/bootstrap.js"></script>
+<script src="../js/jquery.bootstrap-dropdown-on-hover.js"></script>
+<script src="../js/common.js"></script>
+</body>
+</html>

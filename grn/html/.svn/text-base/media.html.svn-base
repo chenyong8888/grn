@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+<meta charset="utf-8">
+<meta name="renderer" content="webkit">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>媒体报道</title>
+<link href="../css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="../css/ieViewportBug.css"/>
+<link rel="stylesheet" href="../css/common.css">
+<link rel="stylesheet" href="../css/ZDKmain.css">
+<!--[if lt IE 9]>
+<script src="../js/html5shiv.min.js"></script>
+<script src="../js/respond.min.js"></script>
+<![endif]-->
+<script src="../js/ieViewportBug.js"></script>
+</head>
+<body>
+	<div class="header"></div>
+	<div class="main">
+		<div class="mediaCon">
+			<div class="banner">
+				<img src="../images/mediaPcBan.jpg" alt="">
+				<img src="../images/mediaMBan.jpg" alt="">
+			</div>
+			<div class="container">
+				<div class="concent">
+					<ul class="NavBox row">
+						<li class="list col-xs-3 active">新闻中心<i></i></li>
+						<li class="list col-xs-3">集团公告<i></i></li>
+						<li class="list col-xs-3">集团新闻<i></i></li>
+						<li class="list col-xs-3 ">媒体报道<i></i></li>
+					</ul>
+					<div class="conBox row">
+						<div class="row col-xs-8">
+							<div class="MadeTop">
+								<div class="category">媒体报道</div>
+								<div class="time">12.14</div>
+								<h3 class="title">贵人鸟联合红豆等设立保险公司</h3>
+								<a class="link"href="##">more +</a>
+								<img src="../images/madetop.jpg" alt="">
+							</div>
+							<ul>
+								<li class="list col-xs-6">
+									<div class="category">媒体报道</div>
+									<div class="time">12.14</div>
+									<div class="mediaIntro">
+										<p>贵人鸟拟收购威康健身100%股权 进一步转型体育产业</p>
+										<a href="../html/particulars.html">more +</a>
+									</div>
+									<img src="../images/mediaImg.jpg" alt="">
+								</li>
+								<li class="list col-xs-6">
+									<div class="category">媒体报道</div>
+									<div class="time">12.14</div>
+									<div class="mediaIntro">
+										<p>贵人鸟拟收购威康健身100%股权 进一步转型体育产业</p>
+										<a href="../html/particulars.html">more +</a>
+									</div>
+									<img src="../images/mediaImg.jpg" alt="">
+								</li>
+								<li class="list col-xs-6">
+									<div class="category">媒体报道</div>
+									<div class="time">12.14</div>
+									<div class="mediaIntro">
+										<p>贵人鸟拟收购威康健身100%股权 进一步转型体育产业</p>
+										<a href="../html/particulars.html">more +</a>
+									</div>
+									<img src="../images/mediaImg.jpg" alt="">
+								</li>
+								<li class="list col-xs-6">
+									<div class="category">媒体报道</div>
+									<div class="time">12.14</div>
+									<div class="mediaIntro">
+										<p>贵人鸟拟收购威康健身100%股权 进一步转型体育产业</p>
+										<a href="../html/particulars.html">more +</a>
+									</div>
+									<img src="../images/mediaImg.jpg" alt="">
+								</li>
+								<li class="list col-xs-6">
+									<div class="category">媒体报道</div>
+									<div class="time">12.14</div>
+									<div class="mediaIntro">
+										<p>贵人鸟拟收购威康健身100%股权 进一步转型体育产业</p>
+										<a href="../html/particulars.html">more +</a>
+									</div>
+									<img src="../images/mediaImg.jpg" alt="">
+								</li>
+								<li class="list col-xs-6">
+									<div class="category">媒体报道</div>
+									<div class="time">12.14</div>
+									<div class="mediaIntro">
+										<p>贵人鸟拟收购威康健身100%股权 进一步转型体育产业</p>
+										<a href="../html/particulars.html">more +</a>
+									</div>
+									<img src="../images/mediaImg.jpg" alt="">
+								</li>
+							</ul>
+							<div class="paging">
+								<div class="pagingPC">
+									<ul>
+										<li class="list active">1</li>
+										<li class="list">2</li>
+										<li class="list">3</li>
+										<li class="list">4</li>
+									</ul>
+								</div>
+								<div class="pagingM">view more</div>
+							</div>
+						</div>
+						
+						<div class="col-xs-4 address">
+							<div class="logo"></div>
+							<h2>公司地址</h2>
+							<h4>贵人鸟股份有限公司</h4>
+							<p>厦门市湖里区泗水道 629 号</p>
+							<p>五缘湾运营中心翔安商务大厦 18 层</p>
+							<p>邮政编码：361000</p>
+						</div>
+					</div>
+					<div class="conBox conBox1 row">
+						<div class="row col-xs-8">
+							<ul>
+								<li class="list col-xs-6">
+									<div class="category">媒体报道</div>
+									<div class="time">12.14</div>
+									<div class="mediaIntro">
+										<p>贵人鸟拟收购威康健身100%股权 进一步转型体育产业</p>
+										<a href="../html/particulars.html">more +</a>
+									</div>
+									<img src="../images/mediaImg.jpg" alt="">
+								</li>
+								<li class="list col-xs-6">
+									<div class="category">媒体报道</div>
+									<div class="time">12.14</div>
+									<div class="mediaIntro">
+										<p>贵人鸟拟收购威康健身100%股权 进一步转型体育产业</p>
+										<a href="../html/particulars.html">more +</a>
+									</div>
+									<img src="../images/mediaImg.jpg" alt="">
+								</li>
+								<li class="list col-xs-6">
+									<div class="category">媒体报道</div>
+									<div class="time">12.14</div>
+									<div class="mediaIntro">
+										<p>贵人鸟拟收购威康健身100%股权 进一步转型体育产业</p>
+										<a href="../html/particulars.html">more +</a>
+									</div>
+									<img src="../images/mediaImg.jpg" alt="">
+								</li>
+								<li class="list col-xs-6">
+									<div class="category">媒体报道</div>
+									<div class="time">12.14</div>
+									<div class="mediaIntro">
+										<p>贵人鸟拟收购威康健身100%股权 进一步转型体育产业</p>
+										<a href="../html/particulars.html">more +</a>
+									</div>
+									<img src="../images/mediaImg.jpg" alt="">
+								</li>
+								<li class="list col-xs-6">
+									<div class="category">媒体报道</div>
+									<div class="time">12.14</div>
+									<div class="mediaIntro">
+										<p>贵人鸟拟收购威康健身100%股权 进一步转型体育产业</p>
+										<a href="../html/particulars.html">more +</a>
+									</div>
+									<img src="../images/mediaImg.jpg" alt="">
+								</li>
+								<li class="list col-xs-6">
+									<div class="category">媒体报道</div>
+									<div class="time">12.14</div>
+									<div class="mediaIntro">
+										<p>贵人鸟拟收购威康健身100%股权 进一步转型体育产业</p>
+										<a href="../html/particulars.html">more +</a>
+									</div>
+									<img src="../images/mediaImg.jpg" alt="">
+								</li>
+							</ul>
+							<div class="paging">
+								<div class="pagingPC">
+									<ul>
+										<li class="list active">1</li>
+										<li class="list">2</li>
+										<li class="list">3</li>
+										<li class="list">4</li>
+									</ul>
+								</div>
+								<div class="pagingM">view more</div>
+							</div>
+						</div>
+						
+						<div class="col-xs-4 address">
+							<div class="logo"></div>
+							<h2>公司地址</h2>
+							<h4>贵人鸟股份有限公司</h4>
+							<p>厦门市湖里区泗水道 629 号</p>
+							<p>五缘湾运营中心翔安商务大厦 18 层</p>
+							<p>邮政编码：361000</p>
+						</div>
+					</div>
+					<div class="conBox conBox2 row">
+						<div class="row col-xs-8">
+							<ul>
+								<li class="list col-xs-6">
+									<div class="category">媒体报道</div>
+									<div class="time">12.14</div>
+									<div class="mediaIntro">
+										<p>贵人鸟拟收购威康健身100%股权 进一步转型体育产业</p>
+										<a href="../html/particulars.html">more +</a>
+									</div>
+									<img src="../images/mediaImg.jpg" alt="">
+								</li>
+								<li class="list col-xs-6">
+									<div class="category">媒体报道</div>
+									<div class="time">12.14</div>
+									<div class="mediaIntro">
+										<p>贵人鸟拟收购威康健身100%股权 进一步转型体育产业</p>
+										<a href="../html/particulars.html">more +</a>
+									</div>
+									<img src="../images/mediaImg.jpg" alt="">
+								</li>
+								<li class="list col-xs-6">
+									<div class="category">媒体报道</div>
+									<div class="time">12.14</div>
+									<div class="mediaIntro">
+										<p>贵人鸟拟收购威康健身100%股权 进一步转型体育产业</p>
+										<a href="../html/particulars.html">more +</a>
+									</div>
+									<img src="../images/mediaImg.jpg" alt="">
+								</li>
+								<li class="list col-xs-6">
+									<div class="category">媒体报道</div>
+									<div class="time">12.14</div>
+									<div class="mediaIntro">
+										<p>贵人鸟拟收购威康健身100%股权 进一步转型体育产业</p>
+										<a href="../html/particulars.html">more +</a>
+									</div>
+									<img src="../images/mediaImg.jpg" alt="">
+								</li>
+								<li class="list col-xs-6">
+									<div class="category">媒体报道</div>
+									<div class="time">12.14</div>
+									<div class="mediaIntro">
+										<p>贵人鸟拟收购威康健身100%股权 进一步转型体育产业</p>
+										<a href="../html/particulars.html">more +</a>
+									</div>
+									<img src="../images/mediaImg.jpg" alt="">
+								</li>
+								<li class="list col-xs-6">
+									<div class="category">媒体报道</div>
+									<div class="time">12.14</div>
+									<div class="mediaIntro">
+										<p>贵人鸟拟收购威康健身100%股权 进一步转型体育产业</p>
+										<a href="../html/particulars.html">more +</a>
+									</div>
+									<img src="../images/mediaImg.jpg" alt="">
+								</li>
+							</ul>
+							<div class="paging">
+								<div class="pagingPC">
+									<ul>
+										<li class="list active">1</li>
+										<li class="list">2</li>
+										<li class="list">3</li>
+										<li class="list">4</li>
+									</ul>
+								</div>
+								<div class="pagingM">view more</div>
+							</div>
+						</div>
+						
+						<div class="col-xs-4 address">
+							<div class="logo"></div>
+							<h2>公司地址</h2>
+							<h4>贵人鸟股份有限公司</h4>
+							<p>厦门市湖里区泗水道 629 号</p>
+							<p>五缘湾运营中心翔安商务大厦 18 层</p>
+							<p>邮政编码：361000</p>
+						</div>
+					</div>
+					<div class="conBox conBox3 row">
+						<div class="row col-xs-8">
+							<ul>
+								<li class="list col-xs-6">
+									<div class="category">媒体报道</div>
+									<div class="time">12.14</div>
+									<div class="mediaIntro">
+										<p>贵人鸟拟收购威康健身100%股权 进一步转型体育产业</p>
+										<a href="../html/particulars.html">more +</a>
+									</div>
+									<img src="../images/mediaImg.jpg" alt="">
+								</li>
+								<li class="list col-xs-6">
+									<div class="category">媒体报道</div>
+									<div class="time">12.14</div>
+									<div class="mediaIntro">
+										<p>贵人鸟拟收购威康健身100%股权 进一步转型体育产业</p>
+										<a href="../html/particulars.html">more +</a>
+									</div>
+									<img src="../images/mediaImg.jpg" alt="">
+								</li>
+								<li class="list col-xs-6">
+									<div class="category">媒体报道</div>
+									<div class="time">12.14</div>
+									<div class="mediaIntro">
+										<p>贵人鸟拟收购威康健身100%股权 进一步转型体育产业</p>
+										<a href="../html/particulars.html">more +</a>
+									</div>
+									<img src="../images/mediaImg.jpg" alt="">
+								</li>
+								<li class="list col-xs-6">
+									<div class="category">媒体报道</div>
+									<div class="time">12.14</div>
+									<div class="mediaIntro">
+										<p>贵人鸟拟收购威康健身100%股权 进一步转型体育产业</p>
+										<a href="../html/particulars.html">more +</a>
+									</div>
+									<img src="../images/mediaImg.jpg" alt="">
+								</li>
+								<li class="list col-xs-6">
+									<div class="category">媒体报道</div>
+									<div class="time">12.14</div>
+									<div class="mediaIntro">
+										<p>贵人鸟拟收购威康健身100%股权 进一步转型体育产业</p>
+										<a href="../html/particulars.html">more +</a>
+									</div>
+									<img src="../images/mediaImg.jpg" alt="">
+								</li>
+								<li class="list col-xs-6">
+									<div class="category">媒体报道</div>
+									<div class="time">12.14</div>
+									<div class="mediaIntro">
+										<p>贵人鸟拟收购威康健身100%股权 进一步转型体育产业</p>
+										<a href="../html/particulars.html">more +</a>
+									</div>
+									<img src="../images/mediaImg.jpg" alt="">
+								</li>
+							</ul>
+							<div class="paging">
+								<div class="pagingPC">
+									<ul>
+										<li class="list active">1</li>
+										<li class="list">2</li>
+										<li class="list">3</li>
+										<li class="list">4</li>
+									</ul>
+								</div>
+								<div class="pagingM">view more</div>
+							</div>
+						</div>
+						
+						<div class="col-xs-4 address">
+							<div class="logo"></div>
+							<h2>公司地址</h2>
+							<h4>贵人鸟股份有限公司</h4>
+							<p>厦门市湖里区泗水道 629 号</p>
+							<p>五缘湾运营中心翔安商务大厦 18 层</p>
+							<p>邮政编码：361000</p>
+						</div>
+					</div>
+				</div>
+			</div>
+
+		</div>
+
+	</div>
+	<div class="footer"></div>
+<script src="../js/jquery-2.1.1.min.js"></script>
+<script src="../js/bootstrap.js"></script>
+<script src="../js/jquery.bootstrap-dropdown-on-hover.js"></script>
+<script src="../js/common.js"></script>
+<script src="../js/ZDKmain.js"></script>
+<script src="../js/MedidAjax.js"></script>
+</body>
+</html>

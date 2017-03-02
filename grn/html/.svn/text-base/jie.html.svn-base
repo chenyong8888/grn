@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+    <meta charset="utf-8">
+    <meta name="renderer" content="webkit">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>贵人鸟官网</title>
+    <link href="../css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="../css/ieViewportBug.css"/>
+    <link rel="stylesheet" href="../css/common.css">
+    <link rel="stylesheet" href="../css/jie.css">
+    <!--[if lt IE 9]>
+    <script src="../js/html5shiv.min.js"></script>
+    <script src="../js/respond.min.js"></script>
+    <![endif]-->
+    <script src="../js/ieViewportBug.js"></script>
+</head>
+<body>
+<div class="header"></div>
+<div class="main">
+    <div class="jumbotron milestoneBanner">
+        <img src="../images/pinpaiBannerHMZ.jpg" class="img-responsive">
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 sport_brand_title">
+                <h4 class="text-center"><b>体&nbsp;&nbsp;育&nbsp;&nbsp;零&nbsp;&nbsp;售</b></h4>
+                <p class="underline center-block"></p>
+            </div>
+            <div class="col-xs-12 visible-xs jie_nav">
+                <div class="row">
+                    <div class="col-xs-6 text-center">
+                        <span class="now littleJie">杰之行</span>
+                    </div>
+                    <div class="col-xs-6 text-center">
+                        <span class="littleXie">名鞋库</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="bg">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12 hidden-xs">
+                    <div class="jie lingshow nowActive">
+                        <img src="../images/jieHMZ.jpg" class="img-responsive">
+                        <div class="img_border"></div>
+                        <div class="logoBg text-center">
+                            <img src="../images/jieLogoHMZ.png">
+                            <p class="text-center fontHid">杰&nbsp;之&nbsp;行</p>
+                        </div>
+                    </div>
+                    <div class="xie lingshow">
+                        <img src="../images/xieHMZ.jpg" class="img-responsive">
+                        <div class="img_border borderHid"></div>
+                        <div class="logoBg text-center logoBgHid">
+                            <img src="../images/xieLogoHMZ.png" class="imgHid">
+                            <p class="text-center">名&nbsp;鞋&nbsp;库</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-12 hidden-sm hidden-lg hidden-md jieM">
+                    <img src="../images/jieHMZ.jpg" class="img-responsive center-block">
+                    <div class="logoMBg text-center">
+                        <img src="../images/jieLogoHMZ.png">
+                    </div>
+                </div>
+                <div class="col-xs-12 hidden-sm hidden-lg hidden-md xieM hid">
+                    <img src="../images/xieHMZ.jpg" class="img-responsive center-block">
+                    <div class="logoMBg text-center">
+                        <img src="../images/xieLogoHMZ.png">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="JIE">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12">
+                    <div class="col-xs-12 sport_brand_title jie_title">
+                        <h4 class="text-center"><b>杰&nbsp;&nbsp;之&nbsp;&nbsp;行</b></h4>
+                        <p class="underline center-block hidden-xs"></p>
+                    </div>
+                    <div class="article center-block">
+                        <p><span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus, beatae dicta, eius eligendi enim eos illo impedit iusto minima molestias nemo nulla optio pariatur quaerat quibusdam repellendus totam, vel voluptate?</span><span>Ad, doloribus facilis ipsum iste iure laudantium magnam magni natus quam quis, quisquam quo rem soluta tempora tempore. Atque corporis dolore enim excepturi illo in nisi pariatur quasi repellat sapiente.</span></p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi cupiditate debitis dolore et eveniet excepturi expedita illum itaque iure laudantium molestiae, odio, perspiciatis quasi quidem quo sed ut vero vitae.</p>
+                        <p><span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi atque commodi earum, facere illum necessitatibus quo repellendus ut? Ad assumenda at, cupiditate enim error explicabo fugit iste obcaecati quam soluta.</span><span>Aut commodi eaque magnam molestiae non, quidem quod recusandae repudiandae unde vitae? Adipisci asperiores, atque consequatur deleniti dolor dolorum ipsum itaque, maxime molestiae necessitatibus nihil nisi numquam quibusdam quod soluta?</span><span>Accusantium aperiam, blanditiis cupiditate enim eos eum id ipsa libero, neque nesciunt, porro possimus qui quod rerum sequi similique voluptate. Animi debitis ex hic molestias nostrum odio placeat reiciendis totam?</span></p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque autem eaque facere fugiat nihil quam, repellendus tenetur. Aliquam animi consequatur eaque eum officiis totam. Enim officia provident quisquam reiciendis vitae?</p>
+                    </div>
+                    <div class="visit_us"><a href="#"><b>访问我们的网站</b></a></div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xs-12 sport_brand_title">
+                    <h4 class="text-center"><b>创&nbsp;&nbsp;始&nbsp;&nbsp;团&nbsp;&nbsp;队</b></h4>
+                    <p class="underline center-block"></p>
+                </div>
+            </div>
+            <div class="leaders_main_box row">
+                <div class="leaders_img col-sm-3 col-xs-12">
+                    <img src="../images/dongshizhangHMZ.jpg" class="img-responsive hidden-xs">
+                    <img src="../images/dongshizhangMHMZ.jpg" class="img-responsive visible-xs">
+                </div>
+                <div class="leaders_article col-sm-9 col-xs-12">
+                    <p class="leaders_main_title">
+                        <b>邱小杰</b>
+                        <br class="hidden-xs">
+                        <br class="hidden-xs">
+                        <span>杰之行公司董事长</span>
+                    </p>
+                    <p class="leaders_main_words">现任贵人鸟股份董事长兼总经理，兼任贵人鸟集团、博智香港、海浩、博智文化用品、友华管理咨询、弘展香港、弘展厦门董事、贵人鸟厦门董现任贵人鸟股份董事长兼总经理，兼任贵人鸟集团、博智香港、海浩、博智文化用品、友华管理咨询、弘展香港、弘展厦门董事、贵人鸟厦门董现任贵人鸟股份董事长兼总经理，兼任贵人鸟集团、博智香港、海浩、博智文化用品、友华管理咨询、弘展香港、弘展厦门董事、贵人鸟厦门董现任贵人鸟股份董事长兼总经理，兼任贵人鸟集团、博智香</p>
+                </div>
+            </div>
+            <div class="leaders_main_box row">
+                <div class="leaders_img col-sm-3 col-xs-12">
+                    <img src="../images/dongshizhangHMZ.jpg" class="img-responsive hidden-xs">
+                    <img src="../images/dongshizhangMHMZ.jpg" class="img-responsive visible-xs">
+                </div>
+                <div class="leaders_article col-sm-9 col-xs-12">
+                    <p class="leaders_main_title">
+                        <b>陈志辉</b>
+                        <br class="hidden-xs">
+                        <br class="hidden-xs">
+                        <span>杰之行贸易公司总经理</span>
+                    </p>
+                    <p class="leaders_main_words">现任贵人鸟股份董事长兼总经理，兼任贵人鸟集团、博智香港、海浩、博智文化用品、友华管理咨询、弘展香港、弘展厦门董事、贵人鸟厦门董现任贵人鸟股份董事长兼总经理，兼任贵人鸟集团、博智香港、海浩、博智文化用品、友华管理咨询、弘展香港、弘展厦门董事、贵人鸟厦门董现任贵人鸟股份董事长兼总经理，兼任贵人鸟集团、博智香港、海浩、博智文化用品、友华管理咨询、弘展香港、弘展厦门董事、贵人鸟厦门董现任贵人鸟股份董事长兼总经理，兼任贵人鸟集团、博智香</p>
+                </div>
+            </div>
+            <div class="leaders_main_box row">
+                <div class="leaders_img col-sm-3 col-xs-12">
+                    <img src="../images/dongshizhangHMZ.jpg" class="img-responsive hidden-xs">
+                    <img src="../images/dongshizhangMHMZ.jpg" class="img-responsive visible-xs">
+                </div>
+                <div class="leaders_article col-sm-9 col-xs-12">
+                    <p class="leaders_main_title">
+                        <b>方海荣</b>
+                        <br class="hidden-xs">
+                        <br class="hidden-xs">
+                        <span>杰之行零售公司总经理</span>
+                    </p>
+                    <p class="leaders_main_words">现任贵人鸟股份董事长兼总经理，兼任贵人鸟集团、博智香港、海浩、博智文化用品、友华管理咨询、弘展香港、弘展厦门董事、贵人鸟厦门董现任贵人鸟股份董事长兼总经理，兼任贵人鸟集团、博智香港、海浩、博智文化用品、友华管理咨询、弘展香港、弘展厦门董事、贵人鸟厦门董现任贵人鸟股份董事长兼总经理，兼任贵人鸟集团、博智香港、海浩、博智文化用品、友华管理咨询、弘展香港、弘展厦门董事、贵人鸟厦门董现任贵人鸟股份董事长兼总经理，兼任贵人鸟集团、博智香</p>
+                </div>
+            </div>
+            <div class="leaders_main_box row">
+                <div class="leaders_img col-sm-3 col-xs-12">
+                    <img src="../images/dongshizhangHMZ.jpg" class="img-responsive hidden-xs">
+                    <img src="../images/dongshizhangMHMZ.jpg" class="img-responsive visible-xs">
+                </div>
+                <div class="leaders_article col-sm-9 col-xs-12">
+                    <p class="leaders_main_title">
+                        <b>杨红兵</b>
+                        <br class="hidden-xs">
+                        <br class="hidden-xs">
+                        <span>杰之行商务公司总经理</span>
+                    </p>
+                    <p class="leaders_main_words">现任贵人鸟股份董事长兼总经理，兼任贵人鸟集团、博智香港、海浩、博智文化用品、友华管理咨询、弘展香港、弘展厦门董事、贵人鸟厦门董现任贵人鸟股份董事长兼总经理，兼任贵人鸟集团、博智香港、海浩、博智文化用品、友华管理咨询、弘展香港、弘展厦门董事、贵人鸟厦门董现任贵人鸟股份董事长兼总经理，兼任贵人鸟集团、博智香港、海浩、博智文化用品、友华管理咨询、弘展香港、弘展厦门董事、贵人鸟厦门董现任贵人鸟股份董事长兼总经理，兼任贵人鸟集团、博智香</p>
+                </div>
+            </div>
+            <div class="row benefit_box">
+                <div class="col-xs-12 sport_brand_title">
+                    <h4 class="text-center"><b>企&nbsp;业&nbsp;公&nbsp;益</b></h4>
+                    <p class="underline center-block"></p>
+                </div>
+                <div class="col-sm-12 hidden-xs">
+                    <div class="benefit1 benefit">
+                        <a href="#">
+                            <img src="../images/jieBenefitHMZ1.jpg" class="img-responsive">
+                            <div class="words">2016年7月杰之行体育与应城共同抵御水灾，捐助204万物资
+                                <span href="#" class="more">more +</span>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="benefit2 benefit">
+                        <a href="#">
+                            <img src="../images/jieBenefitHMZ2.jpg" class="img-responsive">
+                            <div class="words">2016年10月16日”杰之行温暖甘肃“爱心援助101万元物资
+                                <span href="#" class="more">more +</span>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <!--手机端公益-->
+                <div class="benefit benefitM col-xs-12 visible-xs">
+                    <a href="#">
+                        <img src="../images/jieBenefitHMZ1.jpg" class="img-responsive">
+                        <div class="words">2016年7月杰之行体育与应城共同抵御水灾，捐助204万物资
+                            <span href="#" class="more">more +</span>
+                        </div>
+                    </a>
+                </div>
+                <div class="benefit benefitM col-xs-12 visible-xs">
+                    <a href="#">
+                        <img src="../images/jieBenefitHMZ2.jpg" class="img-responsive">
+                        <div class="words">2016年10月16日”杰之行温暖甘肃“爱心援助101万元物资
+                            <span href="#" class="more">more +</span>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="XIE hid">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12">
+                    <div class="col-xs-12 sport_brand_title jie_title">
+                        <h4 class="text-center"><b>名&nbsp;&nbsp;鞋&nbsp;&nbsp;库</b></h4>
+                        <p class="underline center-block hidden-xs"></p>
+                    </div>
+                    <div class="article">
+                        <p><span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus, beatae dicta, eius eligendi enim eos illo impedit iusto minima molestias nemo nulla optio pariatur quaerat quibusdam repellendus totam, vel voluptate?</span><span>Ad, doloribus facilis ipsum iste iure laudantium magnam magni natus quam quis, quisquam quo rem soluta tempora tempore. Atque corporis dolore enim excepturi illo in nisi pariatur quasi repellat sapiente.</span></p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi cupiditate debitis dolore et eveniet excepturi expedita illum itaque iure laudantium molestiae, odio, perspiciatis quasi quidem quo sed ut vero vitae.</p>
+                        <p><span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi atque commodi earum, facere illum necessitatibus quo repellendus ut? Ad assumenda at, cupiditate enim error explicabo fugit iste obcaecati quam soluta.</span><span>Aut commodi eaque magnam molestiae non, quidem quod recusandae repudiandae unde vitae? Adipisci asperiores, atque consequatur deleniti dolor dolorum ipsum itaque, maxime molestiae necessitatibus nihil nisi numquam quibusdam quod soluta?</span><span>Accusantium aperiam, blanditiis cupiditate enim eos eum id ipsa libero, neque nesciunt, porro possimus qui quod rerum sequi similique voluptate. Animi debitis ex hic molestias nostrum odio placeat reiciendis totam?</span></p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque autem eaque facere fugiat nihil quam, repellendus tenetur. Aliquam animi consequatur eaque eum officiis totam. Enim officia provident quisquam reiciendis vitae?</p>
+                    </div>
+                    <div class="visit_us"><a href="#"><b>访问我们的网站</b></a></div>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 sport_brand_title sport_brand_title_team">
+                    <h4 class="text-center"><b>创&nbsp;&nbsp;始&nbsp;&nbsp;团&nbsp;&nbsp;队</b></h4>
+                    <p class="underline center-block"></p>
+                </div>
+            </div>
+        </div>
+        <div class="xieBg">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-12">
+                        <p class="introduce"><span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur doloremque, dolores, doloribus error laboriosam libero minus modi quisquam ratione reprehenderit repudiandae tempore, ullam voluptatum. Alias aperiam commodi corporis nam nemo.</span><span>Ab amet autem commodi eaque iure laboriosam magnam natus nobis sint! Blanditiis culpa dolor doloremque ea eos error et facilis, fugiat harum laborum nemo nostrum quasi reiciendis, sit tempora voluptas.</span></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container xie_team">
+            <div class="leaders_main_box row">
+                <div class="leaders_img col-sm-3 col-xs-12">
+                    <img src="../images/dongshizhangHMZ.jpg" class="img-responsive hidden-xs">
+                    <img src="../images/dongshizhangMHMZ.jpg" class="img-responsive visible-xs">
+                </div>
+                <div class="leaders_article col-sm-9 col-xs-12">
+                    <p class="leaders_main_title">
+                        <b>许茂松</b>
+                        <br class="hidden-xs">
+                        <span>CEO（首席执行官）</span>
+                    </p>
+                    <p class="leaders_main_words">现任贵人鸟股份董事长兼总经理，兼任贵人鸟集团、博智香港、海浩、博智文化用品、友华管理咨询、弘展香港、弘展厦门董事、贵人鸟厦门董现任贵人鸟股份董事长兼总经理，兼任贵人鸟集团、博智香港、海浩、博智文化用品、友华管理咨询、弘展香港、弘展厦门董事、贵人鸟厦门董现任贵人鸟股份董事长兼总经理，兼任贵人鸟集团、博智香港、海浩、博智文化用品、友华管理咨询、弘展香港、弘展厦门董事、贵人鸟厦门董现任贵人鸟股份董事长兼总经理，兼任贵人鸟集团、博智香</p>
+                </div>
+            </div>
+            <div class="leaders_main_box row">
+                <div class="leaders_img col-sm-3 col-xs-12">
+                    <img src="../images/dongshizhangHMZ.jpg" class="img-responsive hidden-xs">
+                    <img src="../images/dongshizhangMHMZ.jpg" class="img-responsive visible-xs">
+                </div>
+                <div class="leaders_article col-sm-9 col-xs-12">
+                    <p class="leaders_main_title">
+                        <b>许松强</b>
+                        <br class="hidden-xs">
+                        <span>名鞋库创始人之一</span>
+                        <br class="hidden-xs">
+                        <span><span class="hidden-lg hidden-sm hidden-md">，</span>COO（首席运营官）</span>
+                    </p>
+                    <p class="leaders_main_words">现任贵人鸟股份董事长兼总经理，兼任贵人鸟集团、博智香港、海浩、博智文化用品、友华管理咨询、弘展香港、弘展厦门董事、贵人鸟厦门董现任贵人鸟股份董事长兼总经理，兼任贵人鸟集团、博智香港、海浩、博智文化用品、友华管理咨询、弘展香港、弘展厦门董事、贵人鸟厦门董现任贵人鸟股份董事长兼总经理，兼任贵人鸟集团、博智香港、海浩、博智文化用品、友华管理咨询、弘展香港、弘展厦门董事、贵人鸟厦门董现任贵人鸟股份董事长兼总经理，兼任贵人鸟集团、博智香</p>
+                </div>
+            </div>
+            <div class="leaders_main_box row">
+                <div class="leaders_img col-sm-3 col-xs-12">
+                    <img src="../images/dongshizhangHMZ.jpg" class="img-responsive hidden-xs">
+                    <img src="../images/dongshizhangMHMZ.jpg" class="img-responsive visible-xs">
+                </div>
+                <div class="leaders_article col-sm-9 col-xs-12">
+                    <p class="leaders_main_title">
+                        <b>韩步勇</b>
+                        <br class="hidden-xs">
+                        <span>名鞋库联合创始人</span>
+                    </p>
+                    <p class="leaders_main_words">现任贵人鸟股份董事长兼总经理，兼任贵人鸟集团、博智香港、海浩、博智文化用品、友华管理咨询、弘展香港、弘展厦门董事、贵人鸟厦门董现任贵人鸟股份董事长兼总经理，兼任贵人鸟集团、博智香港、海浩、博智文化用品、友华管理咨询、弘展香港、弘展厦门董事、贵人鸟厦门董现任贵人鸟股份董事长兼总经理，兼任贵人鸟集团、博智香港、海浩、博智文化用品、友华管理咨询、弘展香港、弘展厦门董事、贵人鸟厦门董现任贵人鸟股份董事长兼总经理，兼任贵人鸟集团、博智香</p>
+                </div>
+            </div>
+            <div class="leaders_main_box row">
+                <div class="leaders_img col-sm-3 col-xs-12">
+                    <img src="../images/dongshizhangHMZ.jpg" class="img-responsive hidden-xs">
+                    <img src="../images/dongshizhangMHMZ.jpg" class="img-responsive visible-xs">
+                </div>
+                <div class="leaders_article col-sm-9 col-xs-12">
+                    <p class="leaders_main_title">
+                        <b>黄进步（阿步）</b>
+                        <br class="hidden-xs">
+                        <span>名鞋库公司副总</span>
+                    </p>
+                    <p class="leaders_main_words">现任贵人鸟股份董事长兼总经理，兼任贵人鸟集团、博智香港、海浩、博智文化用品、友华管理咨询、弘展香港、弘展厦门董事、贵人鸟厦门董现任贵人鸟股份董事长兼总经理，兼任贵人鸟集团、博智香港、海浩、博智文化用品、友华管理咨询、弘展香港、弘展厦门董事、贵人鸟厦门董现任贵人鸟股份董事长兼总经理，兼任贵人鸟集团、博智香港、海浩、博智文化用品、友华管理咨询、弘展香港、弘展厦门董事、贵人鸟厦门董现任贵人鸟股份董事长兼总经理，兼任贵人鸟集团、博智香</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="footer"></div>
+<script src="../js/jquery-2.1.1.min.js"></script>
+<script src="../js/bootstrap.js"></script>
+<script src="../js/jquery.bootstrap-dropdown-on-hover.js"></script>
+<script src="../js/common.js"></script>
+<script src="../js/jie.js"></script>
+</body>
+</html>
